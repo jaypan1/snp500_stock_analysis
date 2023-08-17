@@ -8,6 +8,5 @@ For business audience, please refer file Financial Trend Analysis.pptx.
 For technical audience, please refer file presentation.ipynb
 
 ### Requirments
-requirements.txt
-
+requirements.txt;
 Python 3.x
